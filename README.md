@@ -24,4 +24,4 @@
   
 <a href="https://www.linkedin.com/in/caio-sousa-75b631124" target="blank">  <img height="50em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-  ![snake animation] (https://github.com/Caio-sousaFatec)
+ ![Snake animation](https://github.com/Caio-sousaFatec/Caio-sousaFatec/blob/output/github-contribution-grid-snake.svg)
