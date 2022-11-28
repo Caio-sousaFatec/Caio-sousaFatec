@@ -7,8 +7,8 @@
 
 <div>
   <a href="https://github.com/Caio-sousaFatec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-sousaFatec&show_icons=true&theme=onedark&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caio-sousaFatec&show_icons=true&theme=onedark&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark">
 </div>
   <br>
 <div>
@@ -24,4 +24,4 @@
   
 <a href="https://www.linkedin.com/in/caio-sousa-75b631124" target="blank">  <img height="50em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
-  ![snake animation]
+  ![snake animation] (https://github.com/Caio-sousaFatec)
