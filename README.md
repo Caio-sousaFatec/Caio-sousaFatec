@@ -1,9 +1,14 @@
-### Olá, eu sou o Caio!! 🎇
+<h1> Olá, eu sou o Caio!! 🎇</h1>
+
+<h3> BEM VINDO AO MEU GITHUB!! </h3>
+
+##
 
 - 🔭 Atualmente estou trabalhando com freelance
 - 🌱 Aprendendo:Reactjs
 - 📫 pode entrar em contato pelo e-mail: caio.sousa5@fatec.sp.gov.br
-- ⚡ Fun fact: Eu não acordo de mau humor, e sou sempre MANEIRO! 😎
+- ⚡ Sou membro fundador do grupo de API <a href="https://github.com/Pythonators/API_semestre1_pythonators">Pythonators</a>!
+- 🐱‍🏍 procuro ser uma pessoa politica, animada e sociável, entre em contato e te provarei isso!
 
 <div>
   <a href="https://github.com/Caio-sousaFatec">
