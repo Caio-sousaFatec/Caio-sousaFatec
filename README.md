@@ -1,4 +1,4 @@
-### Olá, eu sou o Caiotastico!! 🎇
+### Olá, eu sou o Caio!! 🎇
 
 - 🔭 Atualmente estou trabalhando com freelance
 - 🌱 Aprendendo:Reactjs
