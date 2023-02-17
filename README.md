@@ -7,7 +7,6 @@
 - 🔭 Atualmente estou trabalhando com freelance
 - 🌱 Aprendendo:Reactjs
 - 📫 pode entrar em contato pelo e-mail: caio.sousa5@fatec.sp.gov.br
-- ⚡ Sou membro fundador do grupo de API <a href="https://github.com/Pythonators/API_semestre1_pythonators">Pythonators</a>!
 - 🐱‍🏍 procuro ser uma pessoa politica, animada e sociável, entre em contato e te provarei isso!
 
 <div>
