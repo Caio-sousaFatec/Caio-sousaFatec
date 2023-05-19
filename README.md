@@ -1,13 +1,13 @@
-<h1> Olá, eu sou o Caio!! 🎇</h1>
+<h1> Olá, eu sou o Caio !!</h1>
 
-<h3> BEM VINDO AO MEU GITHUB!! </h3>
+<h3> BEM VINDO AO MEU GITHUB !! </h3>
 
 ##
 
-- 🔭 Atualmente estou trabalhando com freelance
-- 🌱 Aprendendo:Reactjs
+- 🔭 Atualmente estou estagiando
+- 🌱 Aprendendo:Java POO
 - 📫 pode entrar em contato pelo e-mail: caio.sousa5@fatec.sp.gov.br
-- 🐱‍🏍 procuro ser uma pessoa politica, animada e sociável, entre em contato e te provarei isso!
+- 🐱‍🏍 procuro ser uma pessoa politica, animada e sociável !
 
 <div>
   <a href="https://github.com/Caio-sousaFatec">
