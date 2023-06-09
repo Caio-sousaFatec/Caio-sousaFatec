@@ -11,8 +11,11 @@
 
 <div>
   <a href="https://github.com/Caio-sousaFatec">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Caio-sousaFatec&show_icons=true&theme=onedark&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark&count_private=true">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=Caio-sousaFatec&show_icons=true&theme=onedark&count_private=true">
+  <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Caio-sousaFatec&theme=onedark&count_border=false">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark&count_private=true"><br/>
+
+  
 </div>
   <br>
 <div>
