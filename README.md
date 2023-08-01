@@ -5,7 +5,7 @@
 ##
 
 - 🔭 Atualmente trainee na empresa ExcimerLaser 
-- 🌱 Aprendendo: Django basic
+- 🌱 Aprendendo: Rust
 - 📫 pode entrar em contato pelo e-mail: caio.sousa5@fatec.sp.gov.br
 - 🐱‍🏍 procuro ser uma pessoa politica, animada e sociável !
 
