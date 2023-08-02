@@ -15,7 +15,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark&count_private=true"><br/>  
 </div>
   <br>
-   ![Snake animation](https://github.com/Caio-sousaFatec/Caio-sousaFatec/blob/output/github-contribution-grid-snake.svg)
+   
+![Snake animation](https://github.com/Caio-sousaFatec/Caio-sousaFatec/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <div>
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />              
