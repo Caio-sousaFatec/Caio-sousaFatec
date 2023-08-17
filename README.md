@@ -1,13 +1,12 @@
-<h1> Olá, eu sou o Caio !!</h1>
+<h1> Hello, i'm Caio !!</h1>
 
-<h3> BEM VINDO AO MEU GITHUB !! </h3>
+<h3> Welcome to my github !! </h3>
 
 ##
 
-- 🔭 Atualmente trainee na empresa ExcimerLaser 
-- 🌱 Aprendendo: Rust
-- 📫 pode entrar em contato pelo e-mail: caio.sousa5@fatec.sp.gov.br
-- 🐱‍🏍 procuro ser uma pessoa politica, animada e sociável !
+- 🔭 currently interning at the company ExcimerLaser
+- 🌱 Learning today: Rust and Data Structure
+- 📫 you can reach me using my corporative e-mail: caio.sousa5@fatec.sp.gov.br
 
 <div>
   <a href="https://github.com/Caio-sousaFatec">
