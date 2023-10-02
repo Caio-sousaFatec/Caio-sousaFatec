@@ -1,5 +1,5 @@
 
-![github-header-image (1)](https://github.com/Caio-sousaFatec/Caio-sousaFatec/assets/111454312/5bd24314-e24b-496c-b09f-fbdaa1dbaa68)
+<a href="https://github.com/Caio-sousaFatec"><img src="https://github.com/Caio-sousaFatec/Caio-sousaFatec/assets/111454312/5bd24314-e24b-496c-b09f-fbdaa1dbaa68"></a>
 
 <h3> Welcome to my github !! </h3>
 
@@ -9,21 +9,23 @@
 - 🌱 Learning today: Rust and Data Structure
 - 📫 you can reach me using my corporative e-mail: caio.sousa5@fatec.sp.gov.br
 
-<div>
-  <a href="https://github.com/Caio-sousaFatec">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-sousaFatec&show_icons=true&theme=onedark&count_private=true">
-<!--> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark&count_private=true"><br/> <!--> 
+<div> 
 </div>
   <br>
    
 <br>
 <div>
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />              
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  />
-</div> 
+  <img height="40em" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
+  <img height="40em" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img height="40em" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img height="40em" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img height="40em" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
+  <img height="40em" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img height="40em" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img height="40em" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img height="40em" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  
+</div>
 
   ##
   
