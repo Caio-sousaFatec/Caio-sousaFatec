@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/Caio-sousaFatec">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Caio-sousaFatec&show_icons=true&theme=onedark&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark&count_private=true"><br/>  
+<!--> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-sousaFatec&layout=compact&theme=onedark&count_private=true"><br/> <!--> 
 </div>
   <br>
    
