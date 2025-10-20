@@ -1,37 +1,50 @@
-<h2> Welcome to my github !! </h2>
-
-```java
-public class Caiotastico {
-    public String pronouns;
-    private List<String> favLanguages;
-    private List<String> frameworks;
-    private List<String> favTools;
-    public String devRole;
-    private String challenge;
-
-    public Caiotastico() {
-        pronouns = "he / him";
-        code = Arrays.asList("Java❤️", "Rust", "Python", "SQL");
-        tools = new ArrayList<>(Arrays.asList("MySQL", "Docker", "SQLDeveloper"));
-        frameworks = new Array.asList("Pandas", "tinyDB", "Flask", "Django")
-        devRole = "Back-end";
-        challenge = "not for now";
-    }};
-```
+<h2>👋 Bem-vindo ao meu GitHub!</h2>
 
 <br>
 
-<H2> About me </H2>
+<h2>💡 Sobre mim</h2>
 
 <div>
-  
-<p>I am a cheerful and playful individual who loves anime, games, and music. I aspire to work as a backend developer, combining my passion for technology with problem-solving skills. </p>
-<p>Additionally, I am a reliable and supportive companion, always ready to lend a helping hand. Music is also a significant part of my life, inspiring me and providing moments of relaxation. </p>
-<p> Overall, I aim to live a life filled with passion, creativity, and joy, while sharing my fun-loving personality with those around me.</p>
+
+<p>Olá! Eu sou o <b>Caio Matheus</b> — um desenvolvedor curioso, bem-humorado e apaixonado por criar soluções que unem <b>criatividade e lógica</b>. Tenho interesse especial em <b>desenvolvimento backend</b> e em transformar ideias em sistemas funcionais, organizados e eficientes.</p>
+
+<p>Sou estudante da <b>FATEC</b> e já desenvolvi projetos utilizando <b>Java (Spring Boot)</b>, <b>Vue.js</b>, <b>Go</b> e <b>PostgreSQL</b>. Entre meus projetos, destaco o <b>GEOTRACK</b> — um sistema de rastreamento geoespacial com mapas interativos — e o <b>Stratify</b>.</p>
+
+<p>Gosto de aprender novas tecnologias, experimentar soluções criativas e compartilhar conhecimento. Fora do código, me inspiro em <b>animes, jogos e música</b> — minhas principais fontes de energia e criatividade 🎧🎮.</p>
+
+🚀 Busco escrever códigos limpos, sustentáveis e com propósito.</p>
 
 </div>
 
+---
 
+<h2>⚙️ Tecnologias</h2>
 
-  
- 
+<div>
+
+- 💻 **Linguagens:** Java, TypeScript, SQL  
+- 🌐 **Frameworks:** Spring Boot, Vue.js, Vuetify  
+- 🗺️ **Ferramentas GIS:** OpenLayers, GeoJSON  
+- 🧠 **Bancos de Dados:** PostgreSQL, H2, Oracle SQL Developer  
+- 🧰 **Outras ferramentas:** Axios, Pinia, Docker, Taiga  
+
+</div>
+
+---
+
+<h2>📈Projetos Recentes</h2>
+
+-  **GEOTRACK** – Visualização geoespacial em tempo real com OpenLayers e Vue a fins de demonstração de rastreamento executado por dispositivos IOT.
+-  **Sistema de Leilões Eletrônicos** – CRUD completo com Spring Boot e H2  a fins de estudos.
+-  **Vision Data** - Poc de visualizações de dashboards com IA para criação de insights de produtividade e planejamento.
+-  **Stratify** - Poc para visualização de dashboards integrados ao app Taiga, para visibilidade e planejamentos.
+
+---
+
+<h2>🌍 Conecte-se comigo</h2>
+
+<div>
+<p>Vamos trocar ideias, código ou até uma boa playlist!</p>
+
+<a href="https://www.linkedin.com/in/caio-m-sousa" target="_blank">LinkedIn</a>
+</div>
