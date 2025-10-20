@@ -22,11 +22,11 @@
 
 <div>
 
-- 💻 **Linguagens:** Java, TypeScript, SQL  
-- 🌐 **Frameworks:** Spring Boot, Vue.js, Vuetify  
-- 🗺️ **Ferramentas GIS:** OpenLayers, GeoJSON  
-- 🧠 **Bancos de Dados:** PostgreSQL, H2, Oracle SQL Developer  
-- 🧰 **Outras ferramentas:** Axios, Pinia, Docker, Taiga  
+- 💻 **Linguagens:** Java, TypeScript, Python, JavaScript
+- 🌐 **Frameworks:** Spring Boot, Vue.js, Vuetify, primeVue, Quarkus, Nuxt
+- 🗺️ **Ferramentas GIS:** OpenLayers, GeoJSON, PostGIS  
+- 🧠 **Bancos de Dados:** PostgreSQL, Firebase, Oracle SQL Developer, Mysql
+- 🧰 **Outras ferramentas:** Axios, Pinia, Docker, Taiga, Dbeaver, Jira, Github, Docker
 
 </div>
 
