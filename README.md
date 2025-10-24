@@ -23,7 +23,7 @@
 <div>
 
 - 💻 **Linguagens:** Java, TypeScript, Python, JavaScript
-- 🌐 **Frameworks:** Spring Boot, Vue.js, Vuetify, primeVue, Quarkus, Nuxt
+- 🌐 **Frameworks:** Spring Boot, Vue.js, Vuetify, primeVue, Quarkus
 - 🗺️ **Ferramentas GIS:** OpenLayers, GeoJSON, PostGIS  
 - 🧠 **Bancos de Dados:** PostgreSQL, Firebase, Oracle SQL Developer, Mysql
 - 🧰 **Outras ferramentas:** Axios, Pinia, Docker, Taiga, Dbeaver, Jira, Github, Docker
