@@ -1,10 +1,9 @@
 
 <img width="1000" height="315" alt="1" src="https://github.com/user-attachments/assets/34e13385-ae2e-4a2c-96f1-4492979e0134" />
 
+<br>
+<br>
 
-# Introdução
-<div>
-  
 <p align="justify">
   Olá, meu nome é Caio Matheus de Sousa, sou natural de São José dos Campos - São Paulo, Brasil.<br>
   Sou desenvolvedor de software, com foco em backend, ênfase em aplicações Web. Estou cursando a formação de grau superior banco de dados. <br>
@@ -35,9 +34,9 @@ No que se refere às **habilidades interpessoais**, possuo alta capacidade de **
 
 </div>
 
-# Projetos Semestrais (APIs)
+# Projetos Acadêmicos
 
-> Para que seja demonstrado, com maior visibilidade o que foi realizado em meu período de passagem pela fatec, estarei encaminhando abaixo resumos sobre os projetos realizados, além de uma versão ramificada e adaptada para exibição facilitada.
+> Para que seja demonstrado, com maior visibilidade o que foi realizado em meu período de passagem pela faculdade, estarei encaminhando abaixo resumos sobre os projetos realizados, além de uma versão ramificada e adaptada para exibição facilitada.
 
 | **Semestre** | **Descrição da aplicação** | **Diretório Ramificado**|
 |:---: | :---: | :---:|
@@ -59,7 +58,7 @@ Também fui Representante de classe, durante os períodos de primeiro e segundo 
 ## Interfatecs
 Participei efetivamente de duas edições de campeonatos de lógica de programação, exercitando não apenas a lógica de programação, também controle de prazos, lidar com trabalhos sob pressão, raciocínio lógico e trabalho em equipe.
 <br>
-<br>
+
 
 ## Contatos
 
